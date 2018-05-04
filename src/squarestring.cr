@@ -1,6 +1,4 @@
 module SquarePackage
-  VERSION = {{ `shards version #{__DIR__}`.chomp.stringify }}
-
   class Square
     getter internal : String
 
