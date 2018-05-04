@@ -1,2 +1,2 @@
 require "spec"
-require "../src/square"
+require "../src/square-string"
