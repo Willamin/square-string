@@ -1,6 +1,6 @@
 module SquarePackage
   class Square
-    getter internal : String
+    getter internal : String = ""
 
     def initialize(@internal); end
 
